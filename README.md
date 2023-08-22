@@ -7,3 +7,5 @@ textblob
 tensorflow
 mlxtend
 seaborn
+
+Dataset sources: Kaggle
